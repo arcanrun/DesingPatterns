@@ -4,4 +4,4 @@
 
 ### Structural patterns
 
-## Behavioral patterns
+### Behavioral patterns
